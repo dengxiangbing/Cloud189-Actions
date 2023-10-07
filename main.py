@@ -10,8 +10,8 @@ import random
 import os
 
 # 变量 ty_username（手机号）,ty_password（密码）
-ty_username = os.getenv("TYYP_USERNAME").split('&')
-ty_password = os.getenv("TYYP_PSW").split('&')
+ty_username = os.getenv("18224418191").split('&')
+ty_password = os.getenv("@Dd13646569582").split('&')
 
 BI_RM = list("0123456789abcdefghijklmnopqrstuvwxyz")
 
